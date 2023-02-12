@@ -3,6 +3,7 @@ import urllib.error
 import discord
 import json
 
+
 with open('credentials.json', 'r') as f:
     data = json.load(f)
 
