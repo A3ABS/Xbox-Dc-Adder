@@ -3,15 +3,6 @@ import urllib.error
 import discord
 import json
 
-TRAY_TOOLTIP = 'System Tray Demo'
-TRAY_ICON = 'icon.png'
-
-class TaskBarIcon(wx.TaskBarIcon):
-    def __init__(self):
-        super(TaskBarIcon, self).__init__()
-        self.set_icon(TRAY_ICON)
-        self.Bind(wx.EVT_TASKBAR_LEFT_DOWN, self.on_left_down)
-
 with open('credentials.json', 'r') as f:
     data = json.load(f)
 
