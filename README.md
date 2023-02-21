@@ -8,6 +8,8 @@ use the "!xuid (gamertag)" command in discord to pull the xuid from that gamerta
 
 use the "!add (xuid)" command in discord to add the xuid
 
+image.png will be used as an discord pfp
+
 if you need any help setting up/using the program message me on twitter
 
 twitter.com/__A3AB
