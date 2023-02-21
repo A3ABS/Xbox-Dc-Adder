@@ -2,7 +2,7 @@
 Uses the discord and Xbox api to add user onto a specified Xbox account through a discord command 
 
 
-put your discord bot token, self xuid and self xbl 3.0 auth token into the credentials.json
+put your discord bot token, self xuid and self 14 day token into the credentials.json
 
 use the "!xuid (gamertag)" command in discord to pull the xuid from that gamertag 
 
